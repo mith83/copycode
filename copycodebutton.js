@@ -16,7 +16,6 @@ for (var i = 0; i < codeboxes.length; i++) {
   copyText.select();
   copyText.setSelectionRange(0, 99999);
   navigator.clipboard.writeText(copyText.value);
-  console.log('Copied code: ' + codetitle[btn.indexOf(this)] + ' to Clipboard');
+  alert('Copied code: ' + codetitle[btn.indexOf(this)] + ' to Clipboard');
  });
-
 } }
