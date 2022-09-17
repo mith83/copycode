@@ -1,0 +1,6 @@
+.code-container .copy-code {position:relative;float:right;top:0px;margin:15px;cursor:pointer} 
+.code-container .code-title {margin:15px; font-weight:bold;}
+.code-container pre {margin-bottom:0px !important;} .hljs-name{font-weight:normal !important;}
+.code-container pre code table, .code-container pre code table tbody tr td  {border:none;}
+.code-container pre code { font-family:Consolas, Monaco, monospace; font-size:10pt; }
+.code-container {background-color:darkgray;border:1px solid lightgray;border-radius:2px;box-shadow: 0 1px 5px 0 #ddd, 0 1px 5px 0 #ddd;}
