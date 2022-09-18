@@ -1,4 +1,4 @@
-.code-container .copy-code {position:relative;float:right;top:0px;margin:15px;cursor:pointer} 
+.code-container .copy-code {position:relative;float:right;top:0px;margin:14px;cursor:pointer} 
 .code-container .code-title {margin:15px; font-weight:bold;}
 .code-container pre {margin-bottom:0px !important;} .hljs-name{font-weight:normal !important;}
 .code-container pre code table, .code-container pre code table tbody tr td  {border:none;}
