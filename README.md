@@ -32,7 +32,7 @@ A easy to use plugin to add a copy code button to your HTML code snippets contai
 
 ### Usage with HighlightJS Library and Line Numbers Plugin
 
-This plugin can also be used with [highlightjs](https://github.com/highlightjs/highlight.js) Plugin and [Line numbers](https://github.com/wcoder/highlightjs-line-numbers.js) Plugin to add a copycode button to your codeblocks.
+This library can also be used with [highlightjs](https://github.com/highlightjs/highlight.js) plugin and [line numbers](https://github.com/wcoder/highlightjs-line-numbers.js) plugin to add a copycode button to your codeblocks.
 
 ```html
  <script>
