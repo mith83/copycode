@@ -24,7 +24,7 @@ A easy to use plugin to add a copy code button to your HTML code snippets contai
 
 ### Basic usage in HTML
 
-```javascript 
+```html 
 <script>
  addcopycodebutton();
 </script>
@@ -34,7 +34,7 @@ A easy to use plugin to add a copy code button to your HTML code snippets contai
 
 This plugin can also be used with [highlightjs](https://github.com/highlightjs/highlight.js) Plugin and [Line numbers](https://github.com/wcoder/highlightjs-line-numbers.js) Plugin to add a copycode button to your codeblocks.
 
-```javascript
+```html
  <script>
  addcopycodebutton();
  hljs.highlightAll();
