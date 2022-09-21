@@ -1,7 +1,6 @@
-# copycode JS Plugin
+# Copycode JS Plugin
 
 A easy to use plugin to add a copy code button to your HTML code snippets contained in div with class: 'code-container'.
-
 
 ![Preview](https://mith83.github.io/copycode/copycode.png)
 
@@ -9,7 +8,7 @@ A easy to use plugin to add a copy code button to your HTML code snippets contai
 
 [Check out the demo](https://mith83.github.io/copycode/demo.html)
 
-## Install
+## Getting the Library
 
 ### Using a CDN
 
@@ -19,12 +18,6 @@ A easy to use plugin to add a copy code button to your HTML code snippets contai
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mith83/copycode@latest/copycodebutton.css" />
-```
-
-### NPM
-
-```bash
-npm install copycode
 ```
 
 ## Usage
@@ -61,6 +54,7 @@ This plugin can also be used with [highlightjs](https://github.com/highlightjs/h
  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/highlight.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/languages/go.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlightjs-line-numbers.js/2.6.0/highlightjs-line-numbers.min.js" integrity="sha512-nkjLcPbHjdAof51b8uUd+6q4YH7YrMwh+kfTwSBrg5T/yMKrz8GUxM4uJJ1xAL7Q1lfAMIEowDsTzfWskZ5RcQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
  <script src="https://cdn.jsdelivr.net/gh/mith83/copycode@V1.2/copycodebutton.js"></script>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/mith83/copycode@V1.2/copycodebutton.css"></link>
  
