@@ -13,9 +13,11 @@ for (var i = 0; i < codeboxes.length; i++) {
   var copyText = document.createElement("INPUT");
   copyText.type='text';
   copyText.value= rawcode[btn.indexOf(this)].replace(/ /g, " ");
+  document.body.appendChild(copyText);
   copyText.select();
   copyText.setSelectionRange(0, 99999);
-  navigator.clipboard.writeText(copyText.value);
+  document.execCommand('copy');
+  document.body.removeChild(copyText);
   alert('Copied code: ' + codetitle[btn.indexOf(this)] + ' to Clipboard');
  });
 } }
