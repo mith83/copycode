@@ -50,7 +50,7 @@ This plugin can also be used with [highlightjs](https://github.com/highlightjs/h
 ## Complete code display example
 
 ```html
- <link rel="stylesheet" href="href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/styles/stackoverflow-light.min.css" crossorigin="anonymous" />
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/styles/stackoverflow-light.min.css" crossorigin="anonymous" />
  <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/highlight.min.js" crossorigin="anonymous"></script>
  <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/languages/go.min.js" crossorigin="anonymous"></script>
  <script src="https://cdn.jsdelivr.net/npm/highlightjs-line-numbers.js@2.6.0/dist/highlightjs-line-numbers.min.js" crossorigin="anonymous"></script>
